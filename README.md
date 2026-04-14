@@ -46,16 +46,16 @@ docker build -t coffee-app .
 ```bash
 docker run -p 8080:80 coffee-app
 ```
-📸 Output
+## 📸 Output
 <img width="2559" height="1470" alt="Project Screenshot" src="https://github.com/user-attachments/assets/91b3e3f8-30ac-49bf-9673-68eff87d864d" />
 
 The output is a coffee shop landing page that updates automatically after each deployment.
 
-📌 Notes
+## 📌 Notes
 
 This project focuses on DevOps practices, specifically CI/CD automation and deployment workflow.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Affan Baihaqi
 
